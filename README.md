@@ -1,11 +1,12 @@
 # ⚡ PromptEval-Studio
 ### Automated Prompt Optimization, Multi-Metric Evaluation & CI/CD Regression Testing Engine
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
-(https://prompteval-studio.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Pydantic v2](https://img.shields.io/badge/validation-Pydantic%20v2-e92063.svg)](https://docs.pydantic.dev/)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+(https://prompteval-studio.streamlit.app/)
+
 
 **PromptEval-Studio** is an enterprise-grade framework designed to treat Prompt Engineering as an empirical software engineering discipline. It automates prompt evaluation against structured schemas, scores multi-dimensional performance across edge cases and adversarial attacks, and programmatically iterates on prompts using DSPy-style meta-prompt synthesis.
 
